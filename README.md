@@ -15,6 +15,8 @@
 - ⚙️ Working with Purpur / Paper API  
 - 💻 Interested in servers, Linux and backend development
 
+<br>
+
 - 🔭 More me on discord: [Chaos](https://discord.gg/uNJ5VSqhPd)
 
 ---
@@ -23,6 +25,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=apple,discord,discordjs,docker,gradle,maven,idea,webstorm,git,java,kotlin,cpp,php,htmxnodejs,linux,ubuntu,mint,archwindows,powershell,mysql,ps,vscode,visualstudio,regex,js,lua,dotnet" />
+<img src="https://skillicons.dev/icons?i=apple,discord,discordjs,docker,gradle,maven,idea,webstorm,git,java,kotlin,cpp,php,htmx,nodejs,linux,ubuntu,mint,arch,windows,powershell,mysql,ps,vscode,visualstudio,regex,js,lua,dotnet" />
 
 </div>
