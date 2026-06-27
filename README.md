@@ -28,3 +28,20 @@
 <img src="https://skillicons.dev/icons?i=apple,discord,discordjs,docker,gradle,maven,idea,webstorm,git,java,kotlin,cpp,php,htmx,nodejs,linux,ubuntu,mint,arch,windows,powershell,mysql,ps,vscode,visualstudio,regex,js,lua,dotnet" />
 
 </div>
+
+<br>
+
+---
+
+<h2 align="center">Fun</h2>
+
+<p align="center">
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+```
